@@ -8,7 +8,7 @@ A SwiftUI-based iOS app showcasing a collection of Apple frameworks in both **li
 
 - 📋 Display Apple frameworks in **ListView** and **GridView**
 - 🔍 Tap any framework to navigate to a **Detail View**
-- 🧠 Uses **MVVM architecture** for clean data separation
+- 🧠 clean data separation
 - 🔄 Pass and manage data between views effectively
 - 🔗 Open external documentation using **Safari View**
 - 🧩 Integrated with UIKit using `UIViewControllerRepresentable`
@@ -18,7 +18,6 @@ A SwiftUI-based iOS app showcasing a collection of Apple frameworks in both **li
 ## 🧱 Tech Stack
 
 - **SwiftUI**
-- **MVVM Architecture**
 - **UIKit Integration**
 - **SafariServices**
 
